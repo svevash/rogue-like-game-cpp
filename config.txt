@@ -1,0 +1,2 @@
+100      20       40       15        10        20        13   70   10
+KnightHP ZombieHP DragonHP Knightdmg Zombiedmg Dragondmg rows cols medhp
